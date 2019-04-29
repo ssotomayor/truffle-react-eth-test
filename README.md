@@ -35,6 +35,6 @@
 
 1. Browse to http://localhost:3000
 
-## Docker
+### TODO
 
 Convert React components to use Hooks.
